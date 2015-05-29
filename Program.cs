@@ -1,18 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
-using System.Collections;
-using System.Threading;
-using System.Linq.Expressions;
-using System.Text.RegularExpressions;
-using System.Reflection;
-
 using System.Collections.Concurrent;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Reflection;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 
-namespace deleteDiffStart {
+namespace LogCleaner {
 	/// <summary>
 	/// 文字列のコンテナ
 	/// </summary>
