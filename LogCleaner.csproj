@@ -7,8 +7,8 @@
     <ProjectGuid>{FB6E7D76-3870-4C1B-8098-5A51AB54A154}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>deleteDiffStart</RootNamespace>
-    <AssemblyName>deleteDiffStart</AssemblyName>
+    <RootNamespace>LogCleaner</RootNamespace>
+    <AssemblyName>LogCleaner</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>
